@@ -2,6 +2,6 @@
 this is a complete git course
 
 
-#this is the feature file for the project
-this is the bug file
+# this is the feature file for the project
+# this is the bug file
 
